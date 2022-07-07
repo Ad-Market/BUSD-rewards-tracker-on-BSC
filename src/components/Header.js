@@ -162,9 +162,9 @@ function Header() {
                 </Col>
                 <Col xs={12} md={8} sm={8} className="header-section header-section-none">
                     <div className= "header-swap-div">
-                        <Link style= {{textDecoration: 'none'}} to= "/wallet"><span className= "header-swap-btn"> Track Wallet</span></Link>
-                        <Link style= {{textDecoration: 'none'}} to="/swap"><span className= "header-swap-btn">MHD Swap</span></Link>
-                        <Link style= {{textDecoration: 'none'}} to= "/reward-track"><span className= "header-swap-btn">BUSD Reward</span></Link>
+                        <Link style= {{textDecoration: 'none'}} to= "/wallet"><span className= "header-swap-btn">Wallet</span></Link>
+                        <Link style= {{textDecoration: 'none'}} to="/swap"><span className= "header-swap-btn">Swap</span></Link>
+                        <Link style= {{textDecoration: 'none'}} to= "/reward-track"><span className= "header-swap-btn">Reward</span></Link>
                     </div>
                 </Col>
                 <Col xs={12} md={2} sm={2} className="header-section">
