@@ -14,7 +14,7 @@ const walletSet = [
     {name: 'BUSD', addr: "0xe9e7cea3dedca5984780bafc599bd69add087d56"},
     {name: 'FEG', addr: "0xacfc95585d80ab62f67a14c566c1b7a49fe91167"},
     {name: 'Cake', addr: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"},
-    {name: 'POW', addr: "0xc9341b9882689FE9C12515F8EAE8d4C02F5AC2d8"},
+    {name: 'BLK', addr: "0xc9341b9882689FE9C12515F8EAE8d4C02F5AC2d8"},
     {name: 'USDT', addr: "0x55d398326f99059fF775485246999027B3197955"}
 ]
 
